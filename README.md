@@ -13,8 +13,8 @@
 * HTML5, CSS3 (and Bootstrap), JavaScript
 * PHP5
 ### Про мої Soft skills
-* Легко та достумно можу пояснювати людям складні речі прстою мовою (*це дяка рокам роботи з людьми в сферах надаванню послуг*).
-* Я здатний пристосовуватися та добре справляюся з роботою в організаціях різного розміру та культури.
+* Простою мовою та в легкій формі можу пояснити людям складні речі (*це дяка рокам роботи з людьми в сферах надаванню послуг*).
+* Я здатний пристосовуватися та добре справляюся з роботою в організаціях різного розміру та культури (*окрім токсичних колективів та компаній*).
 
 ### Освіта та курси
 Маю вищу освіту з комп'ютерхних наук, зокрема за напрямком мереж та програмування.
@@ -26,8 +26,8 @@
 Більшість репозиторіїв тут, це невеличкі проекти, зроблені як для власних потреб, так і для задоволення (*принаймі ті, що публічні*).
 
 Зокрема:
-* **[Learning Java](/learning_java )** - структорований репозиторій, дяли тих хто починає вивчати цю мову програмування.
-* **[Spooler restarter](/spooler_restarter )** - утиліта для роботи зі службою "диспетчер друку", на випадок винекнення нестандартних ситуацій.
+* **[Learning Java](https://github.com/Magnumv44/learning_java )** - структорований репозиторій, дяли тих хто починає вивчати цю мову програмування.
+* **[Spooler restarter](https://github.com/Magnumv44/spooler_restarter )** - утиліта для роботи зі службою "диспетчер друку", на випадок винекнення нестандартних ситуацій.
 
 Та інші.
 
@@ -35,9 +35,9 @@
 * <a title="Натисніть щоб надіслати повідомлення автору блога" href="https://telegram.me/magnumv44">Telegram: @Magnumv44</a>
 * Або надіслати листа за адресою vitaliy1984(@)gmail.com
 ## Трішки моєї статистики з Github
-[![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magnumv44&theme=transparent&hide=contribs&rank_icon=github )]()
+[![Magnum GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Magnumv44&theme=transparent&hide=contribs&rank_icon=github )]()
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Magnumv44&langs_count=5&theme=transparent&card_width=450&layout=compact&hide=c%2B%2B)]()
+[![My GitHub Language Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Magnumv44&langs_count=5&theme=transparent&card_width=450&layout=compact&hide=c%2B%2B)]()
 
 <!--
 **Magnumv44/Magnumv44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
