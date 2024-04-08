@@ -32,7 +32,6 @@
 Та інші.
 
 ## Як зі мною можна зв'язатись
-* <a title="Натисніть щоб надіслати повідомлення автору блога" href="skype:magnumv44?chat">Skype: Magnumv44</a>
 * <a title="Натисніть щоб надіслати повідомлення автору блога" href="https://telegram.me/magnumv44">Telegram: @Magnumv44</a>
 * Або надіслати листа за адресою vitaliy1984(@)gmail.com
 ## Трішки моєї статистики з Github
