@@ -32,7 +32,7 @@
 Та інші.
 
 ## Як зі мною можна зв'язатись
-* <a title="Натисніть щоб надіслати повідомлення автору блога" href="https://telegram.me/magnumv44">Telegram: @Magnumv44</a>
+* <a title="Натисніть щоб надіслати повідомлення автору блога" href="https://telegram.me/magnumvs">Telegram: @MagnumVS</a>
 * Або надіслати листа за адресою vitaliy1984(@)gmail.com
 ## Трішки моєї статистики з Github
 [![Magnum GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Magnumv44&theme=transparent&hide=contribs&rank_icon=github )]()
